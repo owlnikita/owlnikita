@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Owlnik 👋</h1>
+<p align="center">Web developer · Telegram bots · Kazakhstan</p>
 
-<!--
-**owlnikita/owlnikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+- Building websites and Telegram bots for clients on Fiverr & Upwork & Freelance
+- Studying at college (2nd year), learning backend with Node.js
 
-Here are some ideas to get you started:
+## Stack
+![skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,next,python,fastapi,postgresql,mysql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Barberossa](https://github.com/owlnikita/barberossa)**: short description. *HTML, CSS, JS, Express, SQLite-3*
+- **[Village: until dawn](link)**: an original idea and design converted into the game via Claude. It is a 2d pixel game made in a single file. Genres: strategy, tycoon, tower defense
+
+## Contact
+- Telegram: @Owln1k
